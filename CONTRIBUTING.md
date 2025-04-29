@@ -1,0 +1,1 @@
+Contribution rules: respect ethical principles, formal consistency.
